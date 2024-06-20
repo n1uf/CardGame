@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
+  m_Name: "\u77F3\u5316"
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: "\u5BF9\u6240\u6709\u654C\u65B9\u968F\u4ECE\u9020\u62101\u70B9\u4F24\u5BB3"
+  CardImage: {fileID: 21300000, guid: a55ff9b33405ae94990db1d9daa02b00, type: 3}
+  ManaCost: 3
+  OverloadCost: 0
+  MaxHealth: 0
+  Attack: 0
+  AttacksForOneTurn: 1
+  Charge: 0
+  Taunt: 0
+  CreatureScriptName: 
+  specialCreatureAmount: 0
+  SpellScriptName: DamageAllOpponentCreatures
+  specialSpellAmount: 1
+  Targets: 0

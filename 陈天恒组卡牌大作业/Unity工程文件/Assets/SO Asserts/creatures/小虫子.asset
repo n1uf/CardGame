@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
+  m_Name: "\u5C0F\u866B\u5B50"
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: "\u56DE\u5408\u7ED3\u675F\u65F6\uFF0C\u5BF9\u4F60\u7684\u82F1\u96C4\u9020\u62102\u70B9\u4F24\u5BB3"
+  CardImage: {fileID: 21300000, guid: a31d93645ca57774c83633e70f1be8df, type: 3}
+  ManaCost: 2
+  OverloadCost: 0
+  MaxHealth: 4
+  Attack: 4
+  AttacksForOneTurn: 1
+  Charge: 0
+  Taunt: 0
+  CreatureScriptName: BiteOwner
+  specialCreatureAmount: 2
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0

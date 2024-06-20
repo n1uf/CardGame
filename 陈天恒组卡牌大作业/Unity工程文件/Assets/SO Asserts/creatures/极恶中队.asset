@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e206fc57f453a42b932de9e94caabf, type: 3}
+  m_Name: "\u6781\u6076\u4E2D\u961F"
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: "\u6218\u543C\uFF1A\u62BD\u4E00\u5F20\u724C"
+  CardImage: {fileID: 21300000, guid: c3e4709b3a963a440a925795d6f7a457, type: 3}
+  ManaCost: 2
+  OverloadCost: 0
+  MaxHealth: 1
+  Attack: 2
+  AttacksForOneTurn: 1
+  Charge: 0
+  Taunt: 0
+  CreatureScriptName: DrawCardBattlecry
+  specialCreatureAmount: 1
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0
